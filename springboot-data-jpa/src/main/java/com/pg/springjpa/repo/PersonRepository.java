@@ -11,6 +11,7 @@ import com.pg.springjpa.model.Person;
 @Repository
 public interface PersonRepository<P> extends CrudRepository<Person, Long> {
     List<Person> findByFirstName(String firstName);
+
     
     List<Person> findByLastName(String lastName);
 }

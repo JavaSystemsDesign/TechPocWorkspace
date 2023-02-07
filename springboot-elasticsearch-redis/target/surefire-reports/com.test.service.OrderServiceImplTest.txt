@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.test.service.OrderServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.99 s <<< FAILURE! - in com.test.service.OrderServiceImplTest
+save(com.test.service.OrderServiceImplTest)  Time elapsed: 0.018 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.test.service.OrderServiceImplTest.save(OrderServiceImplTest.java:33)
+

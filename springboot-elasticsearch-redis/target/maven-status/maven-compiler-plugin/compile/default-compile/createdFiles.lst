@@ -1,0 +1,16 @@
+com\test\model\OrderModel.class
+com\test\repository\CustomerRepository.class
+com\test\service\CustomerService.class
+com\test\service\OrderService.class
+com\test\model\CustomerModel.class
+com\test\config\ESConfig.class
+com\test\repository\CustomCustomerRepository.class
+com\test\rest\OrderController.class
+com\test\config\RedisCacheConfiguration.class
+com\test\config\SamplespringbootApplication.class
+com\test\service\CustomerServiceImpl.class
+com\test\repository\CustomCustomerRepositoryImpl.class
+com\test\repository\OrderRepository.class
+com\test\rest\CustomerController.class
+com\test\config\ElasticConfiguration.class
+com\test\service\OrderServiceImpl.class
